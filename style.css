@@ -54,7 +54,7 @@ canvas{
     width: 100%;
     font-size: 100px;
     white-space: nowrap;
-    /* font-family: sans-serif; */
+    
    
 }
 #loop>h1{
@@ -63,6 +63,7 @@ canvas{
     animation-duration: 15s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
+
     
 
     background: -webkit-linear-gradient(#9704f9, #1e0c01);
